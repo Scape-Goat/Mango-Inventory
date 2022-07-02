@@ -1,4 +1,4 @@
-var fileNames = ["ArrowsetofHod2","ArrowsHod","BeltOfOverconfidence","BolasOfOverwhelmingForce","Bondcutter","ClimbersSnare","daggerofthedeep","DumbbellOfFlexing","Gravediggercloak","Guillotine","MaskoftheOni","mimicinabottle","RuinedBlade","Slimeshot","Steelsong"]
+var fileNames = ["ArrowsetOfHod2","ArrowsHod","BeltOfOverconfidence","BolasOfOverwhelmingForce","Bondcutter","ClimbersSnare","daggerofthedeep","DumbbellOfFlexing","Gravediggercloak","Guillotine","MaskoftheOni","mimicinabottle","RuinedBlade","Slimeshot","Steelsong"]
 fileNames.sort()
 fileNames.forEach(fileName => {
     var cardItemDiv = document.createElement("div")
